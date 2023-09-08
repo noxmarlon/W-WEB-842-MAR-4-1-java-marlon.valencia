@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "redis.port",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.port'"
+  },
+  {
+    "name": "hero.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'hero.app.jwtSecret'"
+  }
+]}
